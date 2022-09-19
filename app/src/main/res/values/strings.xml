@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ComponentsApp</string>
+    <string name="select_a_country">Select a country</string>
+    <string name="countries">Countries</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="name">Name</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="your_selection">Your selection:</string>
+    <string name="apply">apply</string>
+    <string name="one">One</string>
+    <string name="long_click">Long_Click</string>
+    <string name="show_popup">show popup</string>
+    <string name="segunda_tela">Segunda tela</string>
+    <string name="navegartela">navegarTela</string>
+    <string name="item1">item1</string>
+    <string name="item2">item2</string>
+    <string name="item3">item3</string>
+    <string name="actions">actions</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="playsong">playSong</string>
+    <string name="select_country">Select a country</string>
+    <string name="button">button</string>
+    <string name="navegartelagrid">navegartelaGrid</string>
+</resources>
